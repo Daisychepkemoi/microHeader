@@ -9,7 +9,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "build:single-spa": "ng build --prod --deploy-url /dist/micro-header --output-hashing none",
-    "serve:single-spa": "ng serve --host 138.197.88.77 --port 4300 --disable-host-check  --live-reload false"
+    "serve:single-spa": "ng serve --host 138.197.88.77 --port 4203 --disable-host-check  --live-reload false"
   },
   "private": true,
   "dependencies": {
